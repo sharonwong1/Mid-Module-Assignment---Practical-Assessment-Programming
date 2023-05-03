@@ -18,7 +18,7 @@ import sys
 <br>print_path(I, parents[i][j])
 <br>print(j, end=‘—>’)
 
-<br>The data sets for the testing have been shown as below :
+<br>#below are the data sets for testing
 
 <br>#data [u,v,cost]
 <br>#cost refers to the weight of the edge 
